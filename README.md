@@ -1,5 +1,3 @@
-# API_Client_Implementation
-
 <h1> Methods implemented </h1>
 <ul>
   <li> 1. GET </li>
